@@ -1,2 +1,0 @@
-nama: aqsan
-asal: batam
