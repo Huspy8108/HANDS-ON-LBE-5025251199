@@ -1,2 +1,3 @@
 nama: aqsan
-asal: batam
+NRP: 5025251199
+Prodi : Teknik INformatika
